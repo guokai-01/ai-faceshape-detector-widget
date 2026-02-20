@@ -10,7 +10,7 @@ Add a professional "Face Shape Analysis" feature to your website in **less than 
 ## ✨ Features
 
 -   **Instant Analysis**: Detects 7 face shapes (Round, Oval, Square, etc.) using AI.
--   **Detailed Metrics**: visualizes "Three Courts" (三庭) and "Five Eyes" (五眼) ratios.
+-   **Detailed Metrics**: visualizes "Three Courts" and "Five Eyes" ratios.
 -   **No Subscription Required**: Completely free for your users.
 -   **Privacy First**: Photos are processed instantly and deleted; no user data is stored.
 -   **Responsive Design**: Automatically adapts to desktop and mobile layouts.
