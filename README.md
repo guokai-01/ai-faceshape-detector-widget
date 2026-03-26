@@ -1,7 +1,7 @@
 # 🤖 Free AI Face Shape Detector Widget
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.aihair.studio)](https://www.aihair.studio)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftryhair.ai)](https://tryhair.ai)
 
 A lightweight, responsive, and privacy-focused **AI Face Shape Detector** widget for beauty bloggers, fashion websites, and online salons.
 
@@ -17,7 +17,7 @@ Add a professional "Face Shape Analysis" feature to your website in **less than 
 
 ## 🚀 Live Demo
 
-Check out the live tool here: [AI Hair Studio - Face Shape Detector](https://www.aihair.studio/faceshape)
+Check out the live tool here: [AI Hair Studio - Face Shape Detector](https://tryhair.ai/faceshape)
 
 ## 💻 Installation
 
@@ -26,7 +26,7 @@ Simply copy and paste the following HTML code into your website (WordPress, Wix,
 ```html
 <!-- START: AI Face Shape Detector Widget -->
 <iframe 
-    src="https://www.aihair.studio/face_widget.html" 
+    src="https://tryhair.ai/face_widget.html" 
     width="100%" 
     height="650" 
     frameborder="0" 
@@ -35,6 +35,6 @@ Simply copy and paste the following HTML code into your website (WordPress, Wix,
     title="Free AI Face Shape Analysis Tool">
 </iframe>
 <div style="text-align: center; font-size: 12px; color: #888; margin-top: 8px; font-family: sans-serif;">
-    Powered by <a href="https://www.aihair.studio/faceshape" target="_blank" rel="dofollow" style="color: #2563eb; font-weight: bold; text-decoration: none;">AI Hair Studio</a>
+    Powered by <a href="https://tryhair.ai/faceshape" target="_blank" rel="dofollow" style="color: #2563eb; font-weight: bold; text-decoration: none;">AI Hair Studio</a>
 </div>
 <!-- END: AI Face Shape Detector Widget -->
