@@ -26,7 +26,7 @@ Simply copy and paste the following HTML code into your website (WordPress, Wix,
 ```html
 <!-- START: AI Face Shape Detector Widget -->
 <iframe 
-    src="https://tryhair.ai/face_widget.html" 
+    src="https://tryhair.ai/face-widget.html" 
     width="100%" 
     height="650" 
     frameborder="0" 
