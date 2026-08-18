@@ -35,6 +35,6 @@ Simply copy and paste the following HTML code into your website (WordPress, Wix,
     title="Free AI Face Shape Analysis Tool">
 </iframe>
 <div style="text-align: center; font-size: 12px; color: #888; margin-top: 8px; font-family: sans-serif;">
-    Powered by <a href="https://tryhair.ai/faceshape" target="_blank" rel="dofollow" style="color: #2563eb; font-weight: bold; text-decoration: none;">AI Hair Studio</a>
+    Powered by <a href="https://tryhair.ai/faceshape" target="_blank" style="color: #2563eb; font-weight: bold; text-decoration: none;">TryHair.ai</a>
 </div>
 <!-- END: AI Face Shape Detector Widget -->
